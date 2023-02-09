@@ -1,0 +1,14 @@
+C:\Projects\WCF_Tutorial\SummatorServiceHost\bin\Debug\SummatorServiceHost.exe.config
+C:\Projects\WCF_Tutorial\SummatorServiceHost\bin\Debug\SummatorServiceHost.exe
+C:\Projects\WCF_Tutorial\SummatorServiceHost\bin\Debug\SummatorServiceHost.pdb
+C:\Projects\WCF_Tutorial\SummatorServiceHost\bin\Debug\SummatorService.dll
+C:\Projects\WCF_Tutorial\SummatorServiceHost\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Projects\WCF_Tutorial\SummatorServiceHost\bin\Debug\SummatorService.pdb
+C:\Projects\WCF_Tutorial\SummatorServiceHost\bin\Debug\SummatorService.dll.config
+C:\Projects\WCF_Tutorial\SummatorServiceHost\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Projects\WCF_Tutorial\SummatorServiceHost\obj\Debug\SummatorServiceHost.csproj.AssemblyReference.cache
+C:\Projects\WCF_Tutorial\SummatorServiceHost\obj\Debug\SummatorServiceHost.csproj.SuggestedBindingRedirects.cache
+C:\Projects\WCF_Tutorial\SummatorServiceHost\obj\Debug\SummatorServiceHost.csproj.CoreCompileInputs.cache
+C:\Projects\WCF_Tutorial\SummatorServiceHost\obj\Debug\SummatorServiceHost.csproj.CopyComplete
+C:\Projects\WCF_Tutorial\SummatorServiceHost\obj\Debug\SummatorServiceHost.exe
+C:\Projects\WCF_Tutorial\SummatorServiceHost\obj\Debug\SummatorServiceHost.pdb

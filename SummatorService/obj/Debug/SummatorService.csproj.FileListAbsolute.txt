@@ -1,0 +1,10 @@
+C:\Projects\WCF_Tutorial\SummatorService\bin\Debug\SummatorService.dll.config
+C:\Projects\WCF_Tutorial\SummatorService\bin\Debug\SummatorService.dll
+C:\Projects\WCF_Tutorial\SummatorService\bin\Debug\SummatorService.pdb
+C:\Projects\WCF_Tutorial\SummatorService\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Projects\WCF_Tutorial\SummatorService\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Projects\WCF_Tutorial\SummatorService\obj\Debug\SummatorService.csproj.AssemblyReference.cache
+C:\Projects\WCF_Tutorial\SummatorService\obj\Debug\SummatorService.csproj.CoreCompileInputs.cache
+C:\Projects\WCF_Tutorial\SummatorService\obj\Debug\SummatorService.csproj.CopyComplete
+C:\Projects\WCF_Tutorial\SummatorService\obj\Debug\SummatorService.dll
+C:\Projects\WCF_Tutorial\SummatorService\obj\Debug\SummatorService.pdb
